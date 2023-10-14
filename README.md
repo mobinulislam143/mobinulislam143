@@ -1,5 +1,5 @@
 
-(https://e1.pxfuel.com/desktop-wallpaper/506/510/desktop-wallpaper-mern-stack-full-stack-developer.jpg)
+https://e1.pxfuel.com/desktop-wallpaper/506/510/desktop-wallpaper-mern-stack-full-stack-developer.jpg
 ### Hi there 👋, My name is Mobinul Islam Mahi
 #### I am Mern stack devloper
 ![I am Mern stack devloper]
