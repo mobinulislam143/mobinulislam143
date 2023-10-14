@@ -6,7 +6,7 @@ https://e1.pxfuel.com/desktop-wallpaper/506/510/desktop-wallpaper-mern-stack-ful
 
 I made this project professionally, it allows you to create nice and simple 
 
-Skills: Next JS / REACT / JS / HTML / CSS / Node js / Mongo db / Javascript
+Skills: Next   HTML / CSS / Javascript / REACT / Node js / express js / Mongo db 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Mern 
