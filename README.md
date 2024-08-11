@@ -6,7 +6,7 @@ https://i.postimg.cc/qq87YfdR/Untitled-design.png
 
 I made this project professionally, it allows you to create nice and simple 
 
-Skills: Next   HTML / CSS / Javascript / REACT / Node js / express js / Mongo db 
+Skills: Next   HTML / CSS / Tailwind / Bootstrap / Next.js / Javascript / REACT / Node js / express js / Mongo db 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Mern 
