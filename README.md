@@ -9,7 +9,6 @@ I made this project professionally, it allows you to create nice and simple
 Skills: Next   HTML / CSS / Tailwind / Bootstrap / Next.js / Javascript / REACT / Node js / express js / Mongo db 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Mern 
 - 💬 Ask me about web application backend problem 
 
 
